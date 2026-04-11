@@ -50,23 +50,23 @@
             themeUrl: "https://edisonrealestatebd.com/themes/cms",
         };
     </script>
-    
 
-    
+
+
 
     <!---facebook-domain-verification-->
 
-   
+
 
     <!---End facebook-domain-verification-->
 
-    
 
-    
+
+
 </head>
 
 <body>
-    
+
     {{-- header er uporer section Start --}}
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT7CWC9" height="0" width="0"
             style="display: none; visibility: hidden"></iframe></noscript>
@@ -96,7 +96,7 @@
 
     <!------------------fixed sections start --------------->
 
-    
+
     {{-- header er uporer section End --}}
 
     <header class="Header">
@@ -105,16 +105,16 @@
                 <div class="col-md-12 Header__left">
                     <div class="col-md-2">
                         <div class="logo">
-                            <a href="index.htm"><img src="{{ asset('edison-asstes/images/static/logo.svg') }}" alt=""
+                            <a href="index.htm"><img src="{{ asset('edison-asstes/images/static/properties-logo.png') }}" alt=""
                                     height="45 px" width="132 px" /></a>
                         </div>
                     </div>
                     <div class="col-md-8">
                         <div class="menu-list">
                             <ul>
-                                <li class="menu_items"><a href="index.htm">Home</a></li>
+                                <li class="menu_items"><a href="#">Home</a></li>
                                 <li class="menu_items">
-                                    <a href="about-us.html">About</a>
+                                    <a href="#">About</a>
                                     <ul>
                                         <li><a href="#">Our Team</a></li>
 
@@ -151,7 +151,7 @@
                                 <li class="menu_items">
                                     <a href="javascript:void(0)">Gallery</a>
                                     <ul>
-                                        <li><a href="#">Newsletter</a></li>
+                                        <li><a href="{{ url('/newsletter') }}">Newsletter</a></li>                    
 
                                         <li><a href="#">Image Gallery</a></li>
 
@@ -457,17 +457,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5 Footer__top-left">
-                    <img src="themes/cms/assets/images/static/logo.svg" alt="" />
+                    <img src="{{ asset('edison-asstes/images/static/logo.svg') }}" alt="" />
                     <!--<p>HOTLINE: <a href="tel:16760">16760</a></p> -->
-                    <p>HOTLINE: <a href="tel:16760" target="_blank">16760</a></p>
+                    <p>HOTLINE: <a href="tel:16760" target="_blank">00000</a></p>
                     <p>
                         EMAIL:
-                        <a href="mailto:hello@edisonrealestatebd.com">hello@edisonrealestatebd.com</a>
+                        <a href="mailto:hello@edisonrealestatebd.com">hello@welcarepropertiesltd.com</a>
                     </p>
                 </div>
 
                 <div class="col-md-7 Footer__top-right">
-                    <img class="logo_rehab" src="themes/cms/assets/images/static/rehab.jpeg" alt="" />
+                    <img class="logo_rehab" src="{{ asset('edison-asstes/images/static/rehab.jpeg') }}" alt="" />
                 </div>
             </div>
 
@@ -477,23 +477,23 @@
                 <div class="Footer__social col-md-12">
                     <ul>
                         <li>
-                            <a target="_blank" href="https://www.facebook.com/edisonrealestateltd/" style="
-                    background-image: url(&quot;themes/cms/assets/images/static/social_icons.svg&quot;);
+                            <a target="_blank" href="#" style="
+                    background-image: url(&quot;{{ asset('edison-asstes/images/static/social_icons.svg') }}&quot;);
                   "></a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.instagram.com/edisonrealestatelimited/" style="
-                    background-image: url(&quot;themes/cms/assets/images/static/social_icons.svg&quot;);
+                            <a target="_blank" href="#" style="
+                    background-image: url(&quot;{{ asset('edison-asstes/images/static/social_icons.svg') }}&quot;);
                   "></a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.linkedin.com/company/edison-real-estate-limited" style="
-                    background-image: url(&quot;themes/cms/assets/images/static/social_icons.svg&quot;);
+                            <a target="_blank" href="#" style="
+                    background-image: url(&quot;{{ asset('edison-asstes/images/static/social_icons.svg') }}&quot;);
                   "></a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://www.youtube.com/channel/UCmgjmaai-ajgw0cd1lXj2SA" style="
-                    background-image: url(&quot;themes/cms/assets/images/static/social_icons.svg&quot;);
+                            <a target="_blank" href="#" style="
+                    background-image: url(&quot;{{ asset('edison-asstes/images/static/social_icons.svg') }}&quot;);
                   "></a>
                         </li>
                     </ul>
@@ -501,8 +501,8 @@
 
                 <div class="Footer__copyright col-md-12">
                     <p>
-                        © 2026 Welcare Properties Ltd.. All Rights Reserved.
-                        <a href="http://dcastalia.com/">Designed &amp; Developed by Dcastalia</a>
+                        © 2026 Welcare Properties Ltd. All Rights Reserved.
+                        <a href="#">Designed &amp; Developed by Neuratech Ltd.</a>
                     </p>
                 </div>
             </div>

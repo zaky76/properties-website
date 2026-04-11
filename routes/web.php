@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/', [HomeController::class, 'index']);
+Route::get('/newsletter', [HomeController::class, 'newsletter']);
 
 // ২. ড্যাশবোর্ড এবং প্রোফাইল (ডিফল্ট যা ছিল)
 Route::get('/dashboard', function () {

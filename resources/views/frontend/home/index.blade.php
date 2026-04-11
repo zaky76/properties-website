@@ -336,10 +336,10 @@
             <div class="Project-nav">
                 <ul>
                     <li class="goLeft">
-                        <img src="themes/cms/assets/images/static/test_prev.svg" height="51" width="51" alt="" />
+                        <img src="{{ asset('edison-asstes/images/static/test_prev.svg') }}" height="51" width="51" alt="" />
                     </li>
                     <li class="goRight">
-                        <img src="themes/cms/assets/images/static/test_next.svg" height="51" width="51" alt="" />
+                        <img src="{{ asset('edison-asstes/images/static/test_next.svg') }}" height="51" width="51" alt="" />
                     </li>
                 </ul>
             </div>
@@ -1745,9 +1745,9 @@
     <!-------------landowner & buyer section  end------------->
 
     <section class="investor-information">
-        <img class="modify-img" data-image-small="/themes/cms/assets/images/static/landowner.svg"
-            data-image-large="/themes/cms/assets/images/static/landowner.svg"
-            data-image-standard="/themes/cms/assets/images/static/landowner.svg" data-src=""
+        <img class="modify-img" data-image-small="{{ asset('edison-asstes/images/static/landowner.svg') }}"
+            data-image-large="{{ asset('edison-asstes/images/static/landowner.svg') }}"
+            data-image-standard="{{ asset('edison-asstes/images/static/landowner.svg') }}" data-src=""
             src="themes/cms/assets/images/static/blur.jpg" alt="" />
         <!-- 1366x700 -->
         <div class="container">
@@ -1755,13 +1755,13 @@
                 <div class="col-md-12">
                     <div class="investor-information__wrap Light">
                         <div class="investor-information__wrap__img modify-img"
-                            data-image-small="/admin/uploads/page/home-video/1170x500/1682834056o1Lm0_s.jpg"
-                            data-image-large="/admin/uploads/page/home-video/1170x500/1682834056o1Lm0_l.jpg"
-                            data-image-standard="/admin/uploads/page/home-video/1170x500/1682834056o1Lm0_m.jpg" style="
+                            data-image-small="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_s.jpg') }}"
+                            data-image-large="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_l.jpg') }}"
+                            data-image-standard="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_m.jpg') }}" style="
                       background: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
                     " data-src=""></div>
                         <!-- 1170 x 500 -->
-                        <a href="https://youtu.be/qTQF9q21kOw?t=4">
+                        <a href="https://youtu.be/r17xisUJm8Q?si=JY7StFZJ8S-sxN66&t=12">
                             <div class="youtube-btn">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="130" height="130" viewbox="0 0 130 130">
                                     <defs>
@@ -1796,20 +1796,20 @@
 
     <!-------------form section start ------------->
     <section class="homeForm pt100 pb100 Loader">
-        <img class="modify-img" data-image-small="/themes/cms/assets/images/static/landowner.svg"
-            data-image-large="/themes/cms/assets/images/static/landowner.svg"
-            data-image-standard="/themes/cms/assets/images/static/landowner.svg" data-src=""
-            src="themes/cms/assets/images/static/blur.jpg" alt="" />
+        <img class="modify-img" data-image-small="{{ asset('edison-asstes/images/static/landowner.svg') }}"
+            data-image-large="{{ asset('edison-asstes/images/static/landowner.svg') }}"
+            data-image-standard="{{ asset('edison-asstes/images/static/landowner.svg') }}" data-src=""
+            src="{{ asset('edison-asstes/images/static/blur.jpg') }}" alt="" />
         <!-- 1366x700 -->
         <div class="container">
             <div class="row">
                 <div class="Flex">
                     <div class="homeForm__left col-md-7 anim boxOver">
                         <div class="homeForm__left__inner">
-                            <img class="modify-img" data-image-small="/themes/cms/assets/images/static/appointment.jpg"
-                                data-image-large="/themes/cms/assets/images/static/appointment.jpg"
-                                data-image-standard="/themes/cms/assets/images/static/appointment.jpg" data-src=""
-                                src="themes/cms/assets/images/static/blur.jpg" alt="" />
+                            <img class="modify-img" data-image-small="{{ asset('edison-asstes/images/static/appointment.jpg') }}"
+                                data-image-large="{{ asset('edison-asstes/images/static/appointment.jpg') }}"
+                                data-image-standard="{{ asset('edison-asstes/images/static/appointment.jpg') }}" data-src=""
+                                src="{{ asset('edison-asstes/images/static/blur.jpg') }}" alt="" />
                             <!-- 670x500 -->
                         </div>
                     </div>
