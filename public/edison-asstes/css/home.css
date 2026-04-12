@@ -2947,7 +2947,7 @@ input::-webkit-inner-spin-button {
     font-size: 14px;
     line-height: 23px;
     font-weight: 500;
-    padding: 6px 25px;
+    padding: 6px 17px;
     display: flex;
     align-items: center;
     gap: 12px;
@@ -5465,7 +5465,7 @@ input::-webkit-inner-spin-button {
     padding: 5px 15px;
     border-radius: 20px;
     transition: all 0.3s ease;
-    background-color: #213F95;
+    background-color: #213f95;
     color: #ffffff;
     border-color: #fff;
 }
@@ -5475,8 +5475,8 @@ input::-webkit-inner-spin-button {
 }
 
 .login-btn:hover {
-    color: #213F95; 
-    border-color: #213F95;
+    color: #213f95;
+    border-color: #213f95;
     background-color: #fff;
 }
 
@@ -5488,8 +5488,31 @@ input::-webkit-inner-spin-button {
     font-size: 14px;
 }
 
-/* Margin spacing */
 .me-3 {
     margin-right: 1rem;
+}
+/* .whatsapp-chat {
+    border-radius: 0px 15px 0px 15px !important;
+} */
+.whatsapp-chat {
+    position: fixed;
+    right: 30px;
+    bottom: 120px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(37 211 102);
+    width: 100px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 24px;
+    z-index: 5;
+    transition: 0.5s;
+    cursor: pointer;
+    visibility: visible;
+    opacity: 1;
+    animation: scroll_top 5s linear infinite;
+    /* border: 1px solid #fff; */
 }
 /* zaky css end */

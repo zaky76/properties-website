@@ -25,7 +25,7 @@
                             data-masterspeed="default" data-speed="1.5" data-thumb="" data-rotate="0"
                             data-saveperformance="off" data-title="your dream our passion" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="{{ asset('edison-asstes/page/home-slider/1761742149J5lyU.jpg') }}"
+                            <img src="{{ asset('edison-asstes/page/home-slider/still-life-cozy-house-with-toys.jpg') }}"
                                 alt="Redefining Happiness" data-bgposition="bottom" data-bgfit="cover"
                                 style="height: 100% !important" data-bgrepeat="no-repeat" data-bgparallax="5"
                                 class="rev-slidebg" data-no-retina="" />
@@ -45,15 +45,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 400;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 400;
+                                ">
                                     <p class="h_title">Oasis of Comfort</p>
                                 </div>
 
@@ -68,15 +68,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 500;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 500;
+                                ">
                                     <p class="p_title"></p>
                                 </div>
                             </div>
@@ -107,15 +107,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 400;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 400;
+                                ">
                                     <p class="h_title">Boulevard that makes your heart sing</p>
                                 </div>
 
@@ -130,15 +130,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 500;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 500;
+                                ">
                                     <p class="p_title"></p>
                                 </div>
                             </div>
@@ -169,15 +169,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 400;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 400;
+                                ">
                                     <p class="h_title">oasis of comfort</p>
                                 </div>
 
@@ -192,15 +192,15 @@
                                     data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]" style="
-                              z-index: 7;
-                              white-space: nowrap;
-                              text-align: center;
-                              text-transform: uppercase;
-                              font-size: 35px !important;
-                              color: #fff;
-                              letter-spacing: 1px;
-                              font-weight: 500;
-                            ">
+                                  z-index: 7;
+                                  white-space: nowrap;
+                                  text-align: center;
+                                  text-transform: uppercase;
+                                  font-size: 35px !important;
+                                  color: #fff;
+                                  letter-spacing: 1px;
+                                  font-weight: 500;
+                                ">
                                     <p class="p_title"></p>
                                 </div>
                             </div>
@@ -294,8 +294,8 @@
                             <a href="https://www.youtube.com/watch?v=BU_s5NhMLvc">
                                 <span class="Play">
                                     <!--<img class="Play" height="37" width="37"
-                                                      src="<? //= $this->theme->baseUrl . '/assets/images/static/play.svg'; ?>"
-                                                      alt=""> -->
+                                                          src="<? //= $this->theme->baseUrl . '/assets/images/static/play.svg'; ?>"
+                                                          alt=""> -->
                                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewbox="0 0 130 130"
                                         class="Play">
                                         <defs>
@@ -368,8 +368,8 @@
                                     data-image-large="/admin/uploads/product/edison-verona/555x900/1747801943WqsLj_l.jpg"
                                     data-image-standard="/admin/uploads/product/edison-verona/555x900/1747801943WqsLj_m.jpg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -403,8 +403,8 @@
                                     data-image-large="/admin/uploads/product/edison-desdemona/555x900/1667716974UIMnN_l.jpg"
                                     data-image-standard="/admin/uploads/product/edison-desdemona/555x900/1667716974UIMnN_m.jpg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -442,8 +442,8 @@
                                     data-image-large="/admin/uploads/product/edison-iris/555x900/1709632888Teupg_l.jpeg"
                                     data-image-standard="/admin/uploads/product/edison-iris/555x900/1709632888Teupg_m.jpeg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -478,8 +478,8 @@
                                     data-image-large="/admin/uploads/product/edison-Luciana/555x900/1744112780wZ3r9_l.jpg"
                                     data-image-standard="/admin/uploads/product/edison-Luciana/555x900/1744112780wZ3r9_m.jpg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -517,8 +517,8 @@
                                     data-image-large="/admin/uploads/product/edison-camillo/555x900/1739188775N1pPD_l.jpg"
                                     data-image-standard="/admin/uploads/product/edison-camillo/555x900/1739188775N1pPD_m.jpg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -553,8 +553,8 @@
                                     data-image-large="/admin/uploads/product/edison-Portia/555x900/17168828187babc_l.jpg"
                                     data-image-standard="/admin/uploads/product/edison-Portia/555x900/17168828187babc_m.jpg"
                                     style="
-                              background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                            "></div>
+                                  background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                                "></div>
 
                                 <!-- 370x600  && mobile > 374x450-->
                                 <div class="Project__slider-wrap__single__inner__content">
@@ -612,8 +612,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732089604IgY98_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732089604IgY98_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732089604IgY98_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/LoH98RHthY4?si=Y2KEtSjYaSaTpB0b">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -658,8 +658,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732089932ZOPHr_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732089932ZOPHr_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732089932ZOPHr_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/8Io_q6Bgijg?si=2v9pg1ZSFSY5bPzt">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -704,8 +704,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732090146Epz2J_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732090146Epz2J_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732090146Epz2J_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/mFTBnlQhVyE?si=S2yugaV_2LMraArp">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -750,8 +750,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/173209029163hdE_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/173209029163hdE_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/173209029163hdE_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/Ithd48u0woA?si=EJAx3aNPqfjBq44e">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -796,8 +796,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732090522Unsgh_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732090522Unsgh_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732090522Unsgh_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/CpEZIzKgViM?si=l8uFEZ1gm6vMpNL8">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -842,8 +842,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732090656nRSyT_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732090656nRSyT_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732090656nRSyT_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/nxpX46l-Hz4?si=Ak-m6HHGLW_oACfe">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -888,8 +888,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732090771Kx9xI_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732090771Kx9xI_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732090771Kx9xI_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/h97nUgxClv0?si=8hUZBf2WL7R2exiO">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -934,8 +934,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1732090869hztpq_s.jpg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732090869hztpq_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732090869hztpq_m.jpg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/F0GCL7kNjYM?si=1smjqGTJ5nfwZlGu">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -980,8 +980,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703056429vJoPc_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703056429vJoPc_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703056429vJoPc_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/N8BJIP1dvAY?list=PL_6GYIbBDDCveyFof3qMlUP4ZSoeP1JNn">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1027,8 +1027,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703056777FJExD_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703056777FJExD_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703056777FJExD_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/T-mf7tX5ytg?list=PL_6GYIbBDDCveyFof3qMlUP4ZSoeP1JNn">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1074,8 +1074,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703057019REUuc_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703057019REUuc_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703057019REUuc_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/PT5h3aOI0hc?list=PL_6GYIbBDDCveyFof3qMlUP4ZSoeP1JNn">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1121,8 +1121,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703057189M0RDs_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703057189M0RDs_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703057189M0RDs_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/n-Wn2KxUXq8?list=PL_6GYIbBDDCveyFof3qMlUP4ZSoeP1JNn">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1168,8 +1168,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703057496P32kY_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703057496P32kY_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703057496P32kY_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/tUq42SmgtxI?list=PL_6GYIbBDDCveyFof3qMlUP4ZSoeP1JNn">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1215,8 +1215,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1703145010PE2j6_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1703145010PE2j6_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1703145010PE2j6_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/eO9366QFRk0">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1267,8 +1267,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1708428270a736F_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1708428270a736F_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1708428270a736F_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/ijaWukA7Ezs">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1314,8 +1314,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/17084286350zogi_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/17084286350zogi_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/17084286350zogi_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/ehg1AvWdTYA">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1361,8 +1361,8 @@
                                 data-image-small="/admin/uploads/page/testimonial/705x480/1708428820jMUXM_s.jpeg"
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1708428820jMUXM_l.jpeg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1708428820jMUXM_m.jpeg" style="
-                            background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                          " alt="" /><!-- 570x460 -->
+                                background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                              " alt="" /><!-- 570x460 -->
                             <a href="https://youtu.be/5a3gNCIkxls">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
@@ -1768,8 +1768,8 @@
                             data-image-small="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_s.jpg') }}"
                             data-image-large="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_l.jpg') }}"
                             data-image-standard="{{ asset('edison-asstes/uploads/page/1682834056o1Lm0_m.jpg') }}" style="
-                          background: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                        " data-src=""></div>
+                              background: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
+                            " data-src=""></div>
                         <!-- 1170 x 500 -->
                         <a href="https://youtu.be/r17xisUJm8Q?si=JY7StFZJ8S-sxN66&t=12">
                             <div class="youtube-btn">
