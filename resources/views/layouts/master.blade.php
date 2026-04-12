@@ -24,6 +24,9 @@
 
     <link rel="shortcut icon" href="{{ asset('edison-asstes/images/static/fav.png') }}" />
 
+    {{-- //font-awesome --}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
     <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin="" />
     <link href="https://www.google-analytics.com" rel="preconnect" crossorigin="" />
     <link href="{{ asset('edison-asstes/page/home-slider/1661334070ghtz0.jpg') }}" rel="preload" as="image" />
@@ -105,7 +108,8 @@
                 <div class="col-md-12 Header__left">
                     <div class="col-md-2">
                         <div class="logo">
-                            <a href="index.htm"><img src="{{ asset('edison-asstes/images/static/properties-logo.png') }}" alt=""
+                            <a href="index.htm"><img
+                                    src="{{ asset('edison-asstes/images/static/welcare properties.png') }}" alt=""
                                     height="45 px" width="132 px" /></a>
                         </div>
                     </div>
@@ -151,7 +155,7 @@
                                 <li class="menu_items">
                                     <a href="javascript:void(0)">Gallery</a>
                                     <ul>
-                                        <li><a href="{{ url('/newsletter') }}">Newsletter</a></li>                    
+                                        <li><a href="{{ url('/newsletter') }}">Newsletter</a></li>
 
                                         <li><a href="#">Image Gallery</a></li>
 
@@ -174,7 +178,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-2">
+                    {{-- <div class="col-md-2">
                         <div class="Header__right">
                             <a class="call-btn" href="tel:00000">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="18.64" height="20"
@@ -183,13 +187,39 @@
                                         d="M17.424,13.92c-1.208-1.033-2.434-1.659-3.628-.628l-.713.624c-.521.453-1.491,2.568-5.239-1.744S6.328,7.2,6.85,6.747l.716-.624c1.187-1.034.739-2.336-.117-3.676l-.517-.812C6.072.3,5.136-.58,3.946.453L3.3,1.015a6.037,6.037,0,0,0-2.353,4C.52,7.849,1.874,11.1,4.977,14.669S11.109,20.031,13.983,20a6.053,6.053,0,0,0,4.282-1.773l.645-.563c1.187-1.032.45-2.082-.759-3.118Z"
                                         transform="translate(-0.872 0)" fill="#f8f8f8"></path>
                                 </svg>
-                                00000
+                                +8802226620325
                             </a>
                         </div>
                         <div class="hamburger">
                             <span></span>
                             <span></span>
                             <span></span>
+                        </div>
+                    </div> --}}
+                    <div class="col-md-3">
+                        <div class="Header__right d-flex align-items-center justify-content-end">
+
+                            <div class="auth-buttons me-3">
+                                <a href="#" class="login-btn">
+                                    <i class="fas fa-user-circle"></i> Login
+                                </a>
+                            </div>
+
+                            <a class="call-btn me-3" href="tel:+8802226620325">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 18.64 20"
+                                    class="me-1">
+                                    <path id="Path_2218"
+                                        d="M17.424,13.92c-1.208-1.033-2.434-1.659-3.628-.628l-.713.624c-.521.453-1.491,2.568-5.239-1.744S6.328,7.2,6.85,6.747l.716-.624c1.187-1.034.739-2.336-.117-3.676l-.517-.812C6.072.3,5.136-.58,3.946.453L3.3,1.015a6.037,6.037,0,0,0-2.353,4C.52,7.849,1.874,11.1,4.977,14.669S11.109,20.031,13.983,20a6.053,6.053,0,0,0,4.282-1.773l.645-.563c1.187-1.032.45-2.082-.759-3.118Z"
+                                        transform="translate(-0.872 0)" fill="#f8f8f8"></path>
+                                </svg>
+                                00000
+                            </a>
+
+                            <div class="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
                         </div>
                     </div>
                 </div>
