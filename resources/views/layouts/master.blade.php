@@ -46,6 +46,7 @@
     <link href="{{ asset('edison-asstes/css/nice-select.css') }}" rel="stylesheet" media="all" />
     <link href="{{ asset('edison-asstes/css/jquery.custom-scrollbar.css') }}" rel="stylesheet" media="all" />
     <link href="{{ asset('edison-asstes/css/home.css?=v2.11') }}" rel="stylesheet" media="all" />
+    {{-- <link href="{{ asset('edison-asstes/css/inner.css') }}" rel="stylesheet" media="all" /> --}}
     <script src="{{ asset('edison-asstes/js/jquery.min.js') }}"></script>
     <script>
         var site_url_info = {
@@ -168,7 +169,7 @@
                                 </li>
                                 <li class="menu_items"><a href="#">Career</a></li>
                                 <li class="menu_items">
-                                    <a href="#">Contact</a>
+                                    <a href="{{ url('/contact') }}">Contact</a>
                                     <ul>
                                         <li>
                                             <a href="javascript:void(0)" data-toggle="modal"

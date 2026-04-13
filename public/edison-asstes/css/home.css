@@ -3799,7 +3799,7 @@ input::-webkit-inner-spin-button {
     width: 100%;
     bottom: 70px;
     z-index: 5;
-    background-color: rgb(34 62 146 / 70%);
+    background-color: rgb(160 160 160 / 70%);
     height: 50px;
     line-height: 50px;
 }
@@ -5516,3 +5516,4 @@ input::-webkit-inner-spin-button {
     /* border: 1px solid #fff; */
 }
 /* zaky css end */
+
