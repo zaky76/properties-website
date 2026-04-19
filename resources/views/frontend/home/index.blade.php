@@ -666,7 +666,7 @@
                                 data-image-large="/admin/uploads/page/testimonial/705x480/1732089932ZOPHr_l.jpg"
                                 data-image-standard="/admin/uploads/page/testimonial/705x480/1732089932ZOPHr_m.jpg" style="
                                         background-image: url(&quot;themes/cms/assets/images/static/blur.jpg&quot;);
-                                      " alt="" /><!-- 570x460 -->
+                                      " alt="" />
                             <a href="https://youtu.be/8Io_q6Bgijg?si=2v9pg1ZSFSY5bPzt">
                                 <span class="Play">
                                     <svg id="Group_369" data-name="Group 369" xmlns="http://www.w3.org/2000/svg" width="60"
