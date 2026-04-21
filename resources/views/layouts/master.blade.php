@@ -67,11 +67,7 @@
 
 <body>
 
-    {{-- header er uporer section Start --}}
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT7CWC9" height="0" width="0"
-            style="display: none; visibility: hidden"></iframe></noscript>
-
-    <!-- End Google Tag Manager (noscript) -->
+   
 
     <!-- Load Facebook SDK for JavaScript -->
     <div id="fb-root"></div>
