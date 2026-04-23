@@ -175,24 +175,6 @@
                             </ul>
                         </div>
                     </div>
-                    {{-- <div class="col-md-2">
-                        <div class="Header__right">
-                            <a class="call-btn" href="tel:00000">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="18.64" height="20"
-                                    viewbox="0 0 18.64 20">
-                                    <path id="Path_2218" data-name="Path 2218"
-                                        d="M17.424,13.92c-1.208-1.033-2.434-1.659-3.628-.628l-.713.624c-.521.453-1.491,2.568-5.239-1.744S6.328,7.2,6.85,6.747l.716-.624c1.187-1.034.739-2.336-.117-3.676l-.517-.812C6.072.3,5.136-.58,3.946.453L3.3,1.015a6.037,6.037,0,0,0-2.353,4C.52,7.849,1.874,11.1,4.977,14.669S11.109,20.031,13.983,20a6.053,6.053,0,0,0,4.282-1.773l.645-.563c1.187-1.032.45-2.082-.759-3.118Z"
-                                        transform="translate(-0.872 0)" fill="#f8f8f8"></path>
-                                </svg>
-                                +8802226620325
-                            </a>
-                        </div>
-                        <div class="hamburger">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div> --}}
                     <div class="col-md-3">
                         <div class="Header__right d-flex align-items-center justify-content-end">
 
